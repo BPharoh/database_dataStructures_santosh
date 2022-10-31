@@ -5,4 +5,7 @@ function logAtMost5(n)
   }
 }
 
-console.log(logAtMost5(10))
+console.log(logAtMost5(3))
+
+// Time: O(1)
+// Space: O(1)

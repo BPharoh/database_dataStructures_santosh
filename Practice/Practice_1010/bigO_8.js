@@ -10,3 +10,6 @@ function subtotals(array) {
   }
   return subtotalArray;
 }
+console.log(subtotals([1,2,3,4,5]));
+// Time: O(n^2)
+// Space: O(1)

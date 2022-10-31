@@ -6,3 +6,6 @@ function logAtLeast10(n) {
 }
 
 console.log(logAtLeast10(11))
+
+// Time: O(n)
+// Space: O(1)

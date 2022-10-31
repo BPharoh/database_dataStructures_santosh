@@ -9,3 +9,8 @@ function onlyElementsAtEvenIndex(array) {
   }
   return newArray;
 }
+
+console.log(onlyElementsAtEvenIndex([1,2,3,4,5]));
+
+// Time: O(n^2)
+// Space: O(1)

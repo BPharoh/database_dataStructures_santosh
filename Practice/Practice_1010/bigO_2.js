@@ -5,4 +5,7 @@ function logAtLeast5(n)
   }
 }
 
-console.log(logAtLeast5(10))
+console.log(logAtLeast5(3))
+
+// Time: O(n)
+// Space: O(1)

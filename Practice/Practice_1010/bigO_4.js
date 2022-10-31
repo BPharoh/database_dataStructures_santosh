@@ -6,4 +6,7 @@ function logUpTo(n)
   }
 }
 
-console.log(logUpTo(11))
+console.log(logUpTo(2))
+
+// Time: O(n)
+// Space: O(1)

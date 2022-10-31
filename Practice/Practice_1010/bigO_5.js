@@ -6,4 +6,7 @@ function logAtMost10(n)
   }
 }
 
-console.log(logAtMost10(11))
+console.log(logAtMost10(14))
+
+// Time: O(1)
+// Space: O(1)
