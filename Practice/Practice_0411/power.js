@@ -5,9 +5,20 @@
 
 
 function power(base, exponent) {
-
-
+let i, pow =1;
+for(i=0; i<exponent; i++){
+    pow = pow * base;
 }
+return  pow;
+}
+
+power();
+(power());
+(power(1, 2));
+(power(4, 2));
+(power(2, 2));
+(power(2, 0));
+(power(0, 2));
 
 
 // power(2,0) // 1// power(2,2) // 4
